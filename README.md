@@ -1,6 +1,6 @@
 # Dinesh Karthik — Portfolio
 
-A responsive, static portfolio built with semantic HTML, CSS, and vanilla JavaScript. The design follows the supplied reference: a quiet light palette, generous spacing, rounded panels, a centered profile portrait, and direct contact actions. There is no package install or build step.
+A responsive, static portfolio built with semantic HTML, CSS, and vanilla JavaScript. It includes your stated software, AI development, data analytics skills and language proficiencies. The design follows the supplied reference: a quiet light palette, generous spacing, rounded panels, a centered profile portrait, and direct contact actions. There is no package install or build step.
 
 ## Run locally
 
